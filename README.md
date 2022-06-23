@@ -1,4 +1,4 @@
-# flutter_foundation
+# flutter_quiz_app
 
 Simple Quiz app to check personality of a person.
 
